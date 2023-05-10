@@ -1,2 +1,2 @@
 # NowInTime
-busca solucionar la problematica de alguien que cobra por hora y a veces sale mas temprano y otras mas tarde. La app controla el tiempo que pasa al entrar a una ubicacion especifica utilizando geofence.
+Efficiently manage your worker's hourly pay with our app, which uses geofencing to track time spent at a specific location, ensuring fair and accurate compensation.
